@@ -8,7 +8,7 @@ Flashcard app that allows users to check answers to questions at a tap
 ### App Walk-though
 
 
-<img src= "https://user-images.githubusercontent.com/71245496/156862906-8b1e67d4-7063-4d9a-943b-12b1eadf7d9b.gif"
+<img src= "https://user-images.githubusercontent.com/71245496/156862992-1f6b5af3-2a99-415b-8ac5-5e0d256a9b6d.gif"
  width=200><br>
 
 
